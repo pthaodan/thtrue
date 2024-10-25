@@ -1,0 +1,36 @@
+
+body{
+    background-color: #e7dbe2;
+}
+#wrapper{
+   max-width: 960px; 
+   margin: 0px auto;
+}
+#header{
+background: #f19cd6;
+color:l#fff;
+padding: 20px; 
+text-align: center;
+}
+#main-content{
+    background: #e6ebe8;
+     display: flex;
+     min-height: 500px;
+    
+
+}
+#content{
+background: yellow;
+flex-basis: 30%;
+}
+#sidebari{
+background: yellow;
+color:l#fff;
+padding: 20px; 
+flex-basis:30%;
+}
+#footer{
+   
+background: rgb(146, 31, 31);
+padding: 50;
+}
